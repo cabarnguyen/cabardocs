@@ -31,8 +31,8 @@ url: "https://vsoch.github.io" # the base hostname & protocol for your site
 # Social (First three Required)
 repo: "https://github.com/vsoch/docsy-jekyll"
 github_user: "cabardocs"
-github_repo: "docsy-jekyll"
-github_branch: "master"
+github_repo: "cabardocs"
+github_branch: "gh-pages"
 
 # Optional
 twitter: vsoch
